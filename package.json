@@ -3,6 +3,9 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+
+  "homepage": "https://yycaramella-lgtm.github.io/goit-js-hw-09",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build --base=/vanilla-app-template/",
@@ -22,3 +25,4 @@
     "vite-plugin-html-inject": "^1.1.2"
   }
 }
+
